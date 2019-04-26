@@ -1,0 +1,2 @@
+{Action1} => {Game/beginScene/Action1/}
+{Action2} => {Game/beginScene/Action2/}

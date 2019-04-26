@@ -1,0 +1,13 @@
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\bin\Release\InteractiveVideo.exe
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\bin\Release\InteractiveVideo.pdb
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\bin\Release\Interop.WMPLib.dll
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\obj\Release\InteractiveVideo.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\obj\Release\Interop.WMPLib.dll
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\obj\Release\InteractiveVideo.csproj.ResolveComReference.cache
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\obj\Release\InteractiveVideo.Form1.resources
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\obj\Release\InteractiveVideo.Properties.Resources.resources
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\obj\Release\InteractiveVideo.csproj.GenerateResource.Cache
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\obj\Release\InteractiveVideo.exe
+C:\Users\Артем\Desktop\new\InteractiveVideo\InteractiveVideo\obj\Release\InteractiveVideo.pdb
